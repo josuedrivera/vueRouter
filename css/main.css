@@ -1,0 +1,14 @@
+/* Cascading StyleSheets */
+/* CSS selector */
+ul {
+	text-align: center;
+	list-style-type: none;
+	padding: 0;
+}
+ul li {
+	display: inline-block;
+	margin: 10px;
+}
+img {
+	max-height: 300px;
+}
